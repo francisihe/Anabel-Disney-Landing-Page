@@ -1,0 +1,25 @@
+
+.title-container {
+    position: absolute;
+    display: flex;
+    top: 150px; left: 0; bottom: 0; right: 0;
+    justify-content: center;
+    background: none;
+    
+}
+
+.title-anabel {
+    font-family: 'Franie-SemiBold';
+    font-size: 180px;
+}
+
+.magician-hat {
+    position: absolute;
+    /* display: flex; */
+    background: none;
+    width: 200px;
+    height: 200px;
+    rotate: 20deg;
+    margin-right: -720px;
+    /* top: 0; left: 0; bottom: 0; right: 0; */
+}
